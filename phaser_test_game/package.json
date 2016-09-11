@@ -1,0 +1,16 @@
+{
+  "name": "phaser_test_game",
+  "version": "1.0.0",
+  "description": "Phaser test game",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "del": "^2.2.2",
+    "gulp": "^3.9.1",
+    "gulp-typescript": "^2.13.6"
+  },
+  "dependencies": {
+    "phaser": "^2.6.2"
+  }
+}
