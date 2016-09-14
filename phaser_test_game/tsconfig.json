@@ -1,10 +1,12 @@
 {
     "compilerOptions": {
         "target": "es5",
-        "module": "commonjs",
+        "module": "amd",
+        "noImplicitAny": true,
         "sourceMap": true
     },
     "files": [
-        "src/scripts/phaser-test-game.ts"
+        "src/scripts/main.ts",
+        "src/scripts/user-interface.ts"
     ]
 }
